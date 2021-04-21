@@ -1,0 +1,21 @@
+.topContainer {
+  background-color: powderblue;
+}
+
+.middleContainer {
+  border: solid 20px;
+  border-color: black;
+  margin-left: 260px;
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
+
+.bottomContainer {
+  height: 200px;
+  width: 200px;
+  background-color: blanchedalmond;
+  border: solid 10px;
+  border-color: black;
+  margin-left: 500px;
+}
